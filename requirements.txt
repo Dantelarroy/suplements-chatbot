@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+pandas
+seaborn
+scikit-learn
+nltk
+wordcloud
+openpyxl
