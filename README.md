@@ -52,4 +52,7 @@ A continuación, se muestra cómo quedó el chatbot en la interfaz de Streamlit:
 
 ![Interfaz de Streamlit](Images/Supplements_Reviews.jpg)
 
+![Interfaz de Streamlit](Images/Supplements_Reviews_positivo.jpg)
+
+
 ---
