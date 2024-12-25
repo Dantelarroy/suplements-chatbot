@@ -50,6 +50,6 @@ Este proyecto tiene como objetivo desarrollar un chatbot para una tienda online 
 
 A continuación, se muestra cómo quedó el chatbot en la interfaz de Streamlit:
 
-![Interfaz de Streamlit](images/chatbot_streamlit.png)
+![Interfaz de Streamlit](images/Supplements Reviews.jpg)
 
 ---
