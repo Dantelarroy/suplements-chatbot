@@ -41,14 +41,11 @@ Este proyecto tiene como objetivo desarrollar un chatbot para una tienda online 
     pip install -r requirements.txt
     ```
 
-3. Ejecuta el proyecto:
-    ```bash
-    streamlit run app.py
-    ```
+
 
 ## Resultado Final
 
-A continuación, se muestra cómo quedó el chatbot en la interfaz de Streamlit:
+A continuación, se muestra cómo quedó el chatbot en la interfaz de Streamlit (Para probarlo ejecutar el archivo app.py de la carpeta streamlit e instala los requerimientos de esa carpeta):
 Respuesta ante crítica Negativa:
 ![Interfaz de Streamlit](Images/Supplements_Reviews.jpg)
 
