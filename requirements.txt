@@ -1,0 +1,13 @@
+openpyxl
+nltk
+groq
+gradio
+pandas
+seaborn
+scikit-learn
+numpy
+matplotlib
+wordcloud
+torch
+transformers
+IPython
